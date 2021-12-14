@@ -9,12 +9,11 @@ classify whether the person in the photo is wearing glasses or not .Dataset from
 ## Install dependencies
 1. Create new environment with `conda create -n myenv python=3.8`
 2. Activate new environment with `conda activate myenv`
-3. Install dependencies with pip install - r requirements.txt
+3. Install dependencies with `pip install - r requirements.txt`
 
 ## To run notebook.ipynb
 1. Activate myenv
 2. Open model_v1.ipynb or model_v2.ipynb . I put EDA and problem description in model_v1.ipynb
-
 
 
 ## Deploy locally using docker
