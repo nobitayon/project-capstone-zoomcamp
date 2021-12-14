@@ -9,11 +9,10 @@ File in repository :
 * model_v2.ipynb : 
 * predict-test.py : to try web service that deployed locally
 * deploy-test.py  : to try web service that deployed on pythonanywhere
-* prep.py : Module that needed on predict.py 
 * Dockerfile : to running the service on docker
-* Summary-model.xlsx : summary of model selection process
-* Data.csv : Data i used to train and test on this project
-* 
+* model_v1_10_0.948.h5 : Model that i save from training
+* model_v1_10_0.982.h5 : Model that i save from training
+
 # How to run project
 
 ## Install dependencies
