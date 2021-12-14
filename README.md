@@ -15,6 +15,10 @@ File in repository :
 * requirements.txt : requirement to run model_v1.ipynb or model_v2.ipynb
 * make_folder.ipynb : To make train,validation,and test folder
 
+For EDA , i referenced from this source :
+* https://medium.com/geekculture/eda-for-image-classification-dcada9f2567a
+* https://towardsdatascience.com/exploratory-data-analysis-ideas-for-image-classification-d3fc6bbfb2d2
+
 # How to run project
 
 ## Install dependencies
