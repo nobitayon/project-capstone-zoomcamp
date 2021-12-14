@@ -12,6 +12,8 @@ File in repository :
 * Dockerfile : to running the service on docker
 * model_v1_10_0.948.h5 : Model that i save from training
 * model_v1_10_0.982.h5 : Model that i save from training
+* requirements.txt : requirement to run model_v1.ipynb or model_v2.ipynb
+* make_folder.ipynb : To make train,validation,and test folder
 
 # How to run project
 
